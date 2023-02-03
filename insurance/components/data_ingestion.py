@@ -1,5 +1,9 @@
+# pulling data
+# split data into train and test
+
+
 import numpy as np
-import pandas as pd
+import pandas as pd 
 import os
 import sys
 from insurance.entity import config_entity

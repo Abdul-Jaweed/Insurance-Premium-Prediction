@@ -1,7 +1,8 @@
 # Data type
 # unwanted data finding
 # data cleaning
-
+# replacing NA values into NAN
+ 
 from insurance.entity import artifact_entity, config_entity
 from insurance.exception import InsuranceException
 from insurance.logger import logging

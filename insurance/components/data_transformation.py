@@ -1,7 +1,8 @@
 # impute missing values
 # handle outlier
-# handle inbalance data
-# convert categorical data to numbercal
+# handle imbalance data
+# convert categorical data to numerical data
+
 
 class DataTransformation:
     pass
