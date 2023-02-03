@@ -41,3 +41,11 @@ Kaggle link : "https://www.kaggle.com/datasets/noordeen/insurance-premium-predic
  - Grafana
  - DVC
  - MLFLOW
+
+
+
+
+## Deployment on AWS
+
+
+## Monitoring
