@@ -19,5 +19,5 @@ numpy
 scikit-learn
 apache-airflow
 streamlit
-protobuf
+protobuf==3.20.*
 -e .
