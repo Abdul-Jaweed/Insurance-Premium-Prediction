@@ -72,8 +72,8 @@ if __name__ == "__main__":
         data_ingestion_artifact=data_ingestion_artifact,
         data_transformation_artifact=data_transformation_artifact,
         model_trainer_artifact=model_trainer_artifact)
-        #model_eval_artifact = model_eval.intitate_model_evaluation()
-        model_eval_artifact = model_eval.initiate_model_evaluation()
+        model_eval_artifact = model_eval.intitate_model_evaluation()
+        #model_eval_artifact = model_eval.initiate_model_evaluation()
         
         
         # Model Pusher
